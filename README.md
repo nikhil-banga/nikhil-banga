@@ -56,7 +56,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 ## Connect with me:
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/nikhil-banga/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nikhil-banga">
 </a>
 <a href="https://github.com/nikhil-banga?tab=followers"><img src="https://img.shields.io/github/followers/nikhil-banga?label=Followers&style=social" alt="GitHub Badge"></a>
