@@ -36,11 +36,11 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-banga&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-banga&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/nikhil-banga/github-readme-stats)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-banga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-banga&layout=compact)](https://github.com/nikhil-banga/github-readme-stats)
 
 
 <br/>
